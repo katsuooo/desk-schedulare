@@ -10,6 +10,10 @@
     "express:run": "vue-cli-service express:run"
   },
   "dependencies": {
+    "@fullcalendar/core": "^5.5.0",
+    "@fullcalendar/daygrid": "^5.5.0",
+    "@fullcalendar/interaction": "^5.5.0",
+    "@fullcalendar/vue": "^5.5.0",
     "core-js": "^3.6.5",
     "vue": "^3.0.0"
   },
